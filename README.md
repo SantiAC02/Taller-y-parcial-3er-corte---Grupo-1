@@ -127,12 +127,12 @@ Abrir el notebook de limpieza (.ipynb)
 
 Ejecutar la limpieza con el archvo "Base de datos ONIX Original".xlsx y exportar el dataset "Base de datos ONIX Limpia.xlsx" ya procesado
 
-Abrir el archivo .pbix en Power BI Desktop o acceder al link público
+Abrir el archivo .pbix en Power BI Desktop o acceder al link: https://app.powerbi.com/links/zNd15RiXKG?ctid=aca51631-00fe-490d-91ab-163ef87260ee&pbi_source=linkShare
 
 👥 Integrandtes del grupo
 
-Santiago Acosta
+Santiago Acosta Calvo
 
 Guillaume Garey
 
-Santiago Aragón
+David Santiago Aragón Mendez
