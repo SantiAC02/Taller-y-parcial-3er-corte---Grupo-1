@@ -119,6 +119,8 @@ DAX
 
 GitHub
 
+Uso de Inteligencia Artifical para mejor compresion de códigos en Python y DAX
+
 🚀 Cómo Ejecutar
 
 Clonar este repositorio
